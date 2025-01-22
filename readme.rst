@@ -114,9 +114,6 @@ Add files to includes/services/extended/ that either implement one of the includ
 Changelog
 ---------
 
-*
-^
-
 3.0
 ^^^
 
