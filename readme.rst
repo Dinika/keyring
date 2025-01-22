@@ -115,7 +115,7 @@ Changelog
 ---------
 
 *
-^^
+^^^
 
 3.0
 ^^^
@@ -176,7 +176,7 @@ Changelog
 - Enhancement: Extensive linting/code cleanup, including removing some redundant code.
 
 1.7.1
-^^^
+^^^^^
 
 - Bugfix: Only allow users with `manage_options` to access management UIs. Props Laura Lee for disclosure.
 
@@ -194,7 +194,7 @@ Changelog
 - Bugfix: Correct URL for registering Eventbrite apps.
 
 1.6.2
-^^^
+^^^^^
 
 - Enhancement: New Fitbit service definition
 - Enhancement: New 500px service definition, props https://github.com/petermolnar
@@ -210,7 +210,7 @@ Changelog
 - Bugfix: Avoid PHP notice in http-basic
 
 1.6.1
-^^^
+^^^^^
 
 - Enhancement: Add Eventbrite as a service, props @jkudish
 
@@ -234,7 +234,7 @@ Changelog
 - Bugfix: Remove unnecessary %s from Google instructions
 
 1.5.1
-^^^
+^^^^^
 
 - Remove example OAuth application included within that library. Unnecessary and contains an XSS vulnerability.
 
